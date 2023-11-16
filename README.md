@@ -9,6 +9,8 @@ This is a **work in progress**. The JSON schema generators do not generate code 
 Using the Strimzi operator as an example:
 
 ```
+# 先下载 generate.sh 中的一些命令
+
 # grab dependencies
 go get
 export PATH=$PATH:$(go env GOPATH)
