@@ -121,3 +121,4 @@ func main() {
 
 	generate(in, out)
 }
+
