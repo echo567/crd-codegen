@@ -10,6 +10,8 @@ Using the Strimzi operator as an example:
 
 ```
 # 先下载 generate.sh 中的一些命令
+1. https://github.com/mikefarah/yq
+2. https://github.com/omissis/go-jsonschema 
 
 # grab dependencies
 go get
